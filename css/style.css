@@ -1,0 +1,32 @@
+.header{
+    background-color: #635854;
+  padding: 15px;
+}
+.navbar{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-menu {
+    margin: 0px;
+    padding:0px;
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+.navbar-item{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.navbar-link{
+    text-decoration: none;
+    color:#fff
+}
+.navbar-phone{
+    color:#fff
+}
+.navbar-text{
+    color:#fff
+}
